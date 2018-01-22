@@ -1,2 +1,2 @@
 # keras_frcnn_person
-利用faser rcnn训练人体检测模型。
+利用faser rcnn训练人体检测模型。对视频中每一帧进行人体检测，从而实现对视频中人体的检测
